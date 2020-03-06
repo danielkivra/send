@@ -10,7 +10,7 @@ module.exports = function intro(state) {
         <h1 class="text-3xl font-bold md:pb-2">
           ${state.translate('introTitle')}
         </h1>
-        <img class="intro" src="${assets.get('intro.svg')}" />
+        <img class="intro" width="100%" src="${assets.get('intro.svg')}" />
       </div>
     </send-intro>
   `;
