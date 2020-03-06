@@ -39,6 +39,8 @@ class Header extends Component {
             </a>
           `;
     return html`
+    <header></header>`;
+    return html`
       <header
         class="main-header relative flex-none flex flex-row items-center justify-between w-full px-6 md:px-8 h-16 md:h-24 z-20 bg-transparent"
       >
