@@ -99,7 +99,7 @@ const colors = {
   // 'pink-lighter': '#ffbbca',
   // 'pink-lightest': '#ffebef',
   cloud: 'rgba(255, 255, 255, 0.8)',
-  violet: 'hsl(258, 57%, 35%)'
+  violet: 'F6FCF0'
 };
 
 module.exports = {
